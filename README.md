@@ -1,3 +1,3 @@
 # Solar System using OpenGL
 
-![Demo](Solar.mp4)
+![Demo](https://github.com/zsnahid/Computer-Graphics-Final-Project/blob/main/Solar.mp4)
