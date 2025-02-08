@@ -1,1 +1,1 @@
-# Solar System using Freeglut
+# Solar System using OpenGL
